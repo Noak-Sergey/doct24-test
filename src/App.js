@@ -28,11 +28,8 @@ function App() {
     setOnlyLike(!onlyLike)
   }
 
-  const filterItem = (items, filter) => {
-    if(filter) {
-      return items.filter(i => i.like)
-    } 
-    return items
+  const filterItem = (items, filter) => {    
+    return filter ? items.filter(i => i.like) : items
   }
 
   const renderItems = filterItem(items, onlyLike)
