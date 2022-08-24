@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/doct24-test/static/css/main.255aafe9.css",
+    "main.js": "/doct24-test/static/js/main.cf2b3617.js",
+    "static/js/787.28cb0dcd.chunk.js": "/doct24-test/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/doct24-test/index.html",
+    "main.255aafe9.css.map": "/doct24-test/static/css/main.255aafe9.css.map",
+    "main.cf2b3617.js.map": "/doct24-test/static/js/main.cf2b3617.js.map",
+    "787.28cb0dcd.chunk.js.map": "/doct24-test/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.255aafe9.css",
+    "static/js/main.cf2b3617.js"
+  ]
+}
